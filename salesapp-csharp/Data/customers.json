@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "name": "Everett Brakus",
+    "email": "Stanton6@gmail.com",
+    "productPreference": "Shoes",
+    "lastPurchaseDate": "2020-11-24",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 3496.84
+  },
+  {
+    "id": 2,
+    "name": "Kent Simonis",
+    "email": "Pierre34@yahoo.com",
+    "productPreference": "Industrial",
+    "lastPurchaseDate": "2022-05-25",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 159.29
+  },
+  {
+    "id": 3,
+    "name": "Mr. Nelson Walsh",
+    "email": "Genevieve_Friesen16@hotmail.com",
+    "productPreference": "Grocery",
+    "lastPurchaseDate": "2022-09-12",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 1050.82
+  },
+  {
+    "id": 4,
+    "name": "Saul Leuschke",
+    "email": "Brandyn20@gmail.com",
+    "productPreference": "Outdoors",
+    "lastPurchaseDate": "2022-05-30",
+    "numPurchasesLast30Days": 5,
+    "lifetimeTotal": 482.67
+  },
+  {
+    "id": 5,
+    "name": "Mrs. Laverne Bruen",
+    "email": "Thea.White@hotmail.com",
+    "productPreference": "Movies",
+    "lastPurchaseDate": "2020-06-16",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 3568.33
+  },
+  {
+    "id": 6,
+    "name": "Myrtle Hammes",
+    "email": "Jeanette_Mueller@hotmail.com",
+    "productPreference": "Industrial",
+    "lastPurchaseDate": "2021-12-23",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 4371.92
+  },
+  {
+    "id": 7,
+    "name": "Ramiro Schneider",
+    "email": "Dorothy.Lindgren@yahoo.com",
+    "productPreference": "Jewelery",
+    "lastPurchaseDate": "2023-09-09",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 4712.91
+  },
+  {
+    "id": 8,
+    "name": "Rebecca Zemlak",
+    "email": "Mason.Krajcik70@yahoo.com",
+    "productPreference": "Clothing",
+    "lastPurchaseDate": "2022-10-08",
+    "numPurchasesLast30Days": 8,
+    "lifetimeTotal": 3562.77
+  },
+  {
+    "id": 9,
+    "name": "Miss Doreen Hudson",
+    "email": "Opal.Brakus@hotmail.com",
+    "productPreference": "Sports",
+    "lastPurchaseDate": "2021-02-19",
+    "numPurchasesLast30Days": 6,
+    "lifetimeTotal": 3358.01
+  },
+  {
+    "id": 10,
+    "name": "Alonzo Stanton",
+    "email": "Willis57@hotmail.com",
+    "productPreference": "Movies",
+    "lastPurchaseDate": "2023-05-21",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 1746.4
+  },
+  {
+    "id": 11,
+    "name": "Laverne Metz DDS",
+    "email": "Jeremie83@hotmail.com",
+    "productPreference": "Baby",
+    "lastPurchaseDate": "2021-02-09",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 4854.77
+  },
+  {
+    "id": 12,
+    "name": "Cristina Boyle",
+    "email": "Cooper40@gmail.com",
+    "productPreference": "Games",
+    "lastPurchaseDate": "2021-10-27",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 357.76
+  },
+  {
+    "id": 13,
+    "name": "Rafael Yost",
+    "email": "Loraine.Lynch@yahoo.com",
+    "productPreference": "Outdoors",
+    "lastPurchaseDate": "2022-07-29",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 2088.23
+  },
+  {
+    "id": 14,
+    "name": "Brittany Gleichner DVM",
+    "email": "Kayden26@gmail.com",
+    "productPreference": "Clothing",
+    "lastPurchaseDate": "2023-09-24",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 3507.96
+  },
+  {
+    "id": 15,
+    "name": "Meredith McCullough-Gutkowski",
+    "email": "Lyla31@yahoo.com",
+    "productPreference": "Computers",
+    "lastPurchaseDate": "2020-04-17",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 4838.21
+  },
+  {
+    "id": 16,
+    "name": "Mary Schimmel",
+    "email": "Luella31@hotmail.com",
+    "productPreference": "Computers",
+    "lastPurchaseDate": "2020-04-09",
+    "numPurchasesLast30Days": 9,
+    "lifetimeTotal": 4000.76
+  },
+  {
+    "id": 17,
+    "name": "Mable Wuckert",
+    "email": "Darrick.Koch82@gmail.com",
+    "productPreference": "Jewelery",
+    "lastPurchaseDate": "2022-08-31",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 1780.92
+  },
+  {
+    "id": 18,
+    "name": "Dominic Kautzer",
+    "email": "Derek70@gmail.com",
+    "productPreference": "Industrial",
+    "lastPurchaseDate": "2021-11-11",
+    "numPurchasesLast30Days": 7,
+    "lifetimeTotal": 3116.06
+  },
+  {
+    "id": 19,
+    "name": "Carole Quigley",
+    "email": "Mohammad24@gmail.com",
+    "productPreference": "Games",
+    "lastPurchaseDate": "2020-07-05",
+    "numPurchasesLast30Days": 8,
+    "lifetimeTotal": 1609.06
+  },
+  {
+    "id": 20,
+    "name": "Franklin Zulauf III",
+    "email": "Norma.Wintheiser58@hotmail.com",
+    "productPreference": "Books",
+    "lastPurchaseDate": "2021-10-08",
+    "numPurchasesLast30Days": 9,
+    "lifetimeTotal": 4934.26
+  },
+  {
+    "id": 21,
+    "name": "Josefina Shanahan",
+    "email": "Armani67@gmail.com",
+    "productPreference": "Tools",
+    "lastPurchaseDate": "2022-06-14",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 4674.65
+  },
+  {
+    "id": 22,
+    "name": "Renee Moen",
+    "email": "Ellsworth.Mayer@yahoo.com",
+    "productPreference": "Books",
+    "lastPurchaseDate": "2021-03-30",
+    "numPurchasesLast30Days": 9,
+    "lifetimeTotal": 3086.73
+  },
+  {
+    "id": 23,
+    "name": "Eileen Donnelly",
+    "email": "Edwin51@yahoo.com",
+    "productPreference": "Automotive",
+    "lastPurchaseDate": "2020-03-09",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 299.95
+  },
+  {
+    "id": 24,
+    "name": "Mr. Wallace Osinski",
+    "email": "Saige.Emmerich55@yahoo.com",
+    "productPreference": "Automotive",
+    "lastPurchaseDate": "2023-04-14",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 4765.74
+  },
+  {
+    "id": 25,
+    "name": "Nicolas Nolan",
+    "email": "Hans_Yundt@gmail.com",
+    "productPreference": "Beauty",
+    "lastPurchaseDate": "2021-03-07",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 210.83
+  },
+  {
+    "id": 26,
+    "name": "Arturo Hilll",
+    "email": "Toney72@hotmail.com",
+    "productPreference": "Beauty",
+    "lastPurchaseDate": "2023-06-01",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 908.2
+  },
+  {
+    "id": 27,
+    "name": "Maureen Powlowski",
+    "email": "Gerda.Cummings30@gmail.com",
+    "productPreference": "Jewelery",
+    "lastPurchaseDate": "2020-01-07",
+    "numPurchasesLast30Days": 5,
+    "lifetimeTotal": 3322.51
+  },
+  {
+    "id": 28,
+    "name": "Kari Rippin",
+    "email": "Jada48@yahoo.com",
+    "productPreference": "Industrial",
+    "lastPurchaseDate": "2021-02-21",
+    "numPurchasesLast30Days": 6,
+    "lifetimeTotal": 3977.68
+  },
+  {
+    "id": 29,
+    "name": "Wade Murray",
+    "email": "Sydni63@gmail.com",
+    "productPreference": "Computers",
+    "lastPurchaseDate": "2023-10-04",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 1285.8
+  },
+  {
+    "id": 30,
+    "name": "Gary Parker",
+    "email": "Evert72@yahoo.com",
+    "productPreference": "Computers",
+    "lastPurchaseDate": "2021-10-13",
+    "numPurchasesLast30Days": 8,
+    "lifetimeTotal": 238.35
+  },
+  {
+    "id": 31,
+    "name": "Dr. Rudy Champlin",
+    "email": "Tomasa_Crist@yahoo.com",
+    "productPreference": "Movies",
+    "lastPurchaseDate": "2023-03-10",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 3037.64
+  },
+  {
+    "id": 32,
+    "name": "Luz Cummerata",
+    "email": "Stanley_Stokes@yahoo.com",
+    "productPreference": "Toys",
+    "lastPurchaseDate": "2022-10-02",
+    "numPurchasesLast30Days": 6,
+    "lifetimeTotal": 1784.35
+  },
+  {
+    "id": 33,
+    "name": "Miss Becky Sporer",
+    "email": "Abdul15@yahoo.com",
+    "productPreference": "Toys",
+    "lastPurchaseDate": "2020-08-25",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 1850.03
+  },
+  {
+    "id": 34,
+    "name": "Lance Predovic",
+    "email": "Nathaniel11@hotmail.com",
+    "productPreference": "Electronics",
+    "lastPurchaseDate": "2021-05-03",
+    "numPurchasesLast30Days": 6,
+    "lifetimeTotal": 3172.95
+  },
+  {
+    "id": 35,
+    "name": "Troy Watsica",
+    "email": "Buddy_Goyette@yahoo.com",
+    "productPreference": "Garden",
+    "lastPurchaseDate": "2022-12-16",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 828.46
+  },
+  {
+    "id": 36,
+    "name": "Terrence Hintz III",
+    "email": "Reilly.Schumm98@yahoo.com",
+    "productPreference": "Books",
+    "lastPurchaseDate": "2022-08-31",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 2814.15
+  },
+  {
+    "id": 37,
+    "name": "Loren Collier-Bartoletti",
+    "email": "Kyla_Wiza@gmail.com",
+    "productPreference": "Electronics",
+    "lastPurchaseDate": "2020-02-10",
+    "numPurchasesLast30Days": 4,
+    "lifetimeTotal": 110.01
+  },
+  {
+    "id": 38,
+    "name": "Nancy Sporer",
+    "email": "Keyshawn_Kshlerin@yahoo.com",
+    "productPreference": "Jewelery",
+    "lastPurchaseDate": "2021-09-15",
+    "numPurchasesLast30Days": 0,
+    "lifetimeTotal": 1031.3
+  },
+  {
+    "id": 39,
+    "name": "Wanda Stanton",
+    "email": "Abdiel94@yahoo.com",
+    "productPreference": "Health",
+    "lastPurchaseDate": "2020-12-18",
+    "numPurchasesLast30Days": 8,
+    "lifetimeTotal": 4694.03
+  },
+  {
+    "id": 40,
+    "name": "Lester Walter",
+    "email": "Sven.DAmore2@yahoo.com",
+    "productPreference": "Beauty",
+    "lastPurchaseDate": "2023-01-19",
+    "numPurchasesLast30Days": 9,
+    "lifetimeTotal": 4636.89
+  },
+  {
+    "id": 41,
+    "name": "Gregg Torp",
+    "email": "Flo_Kulas50@yahoo.com",
+    "productPreference": "Baby",
+    "lastPurchaseDate": "2022-04-02",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 3272.19
+  },
+  {
+    "id": 42,
+    "name": "Sammy Brekke",
+    "email": "Lera77@yahoo.com",
+    "productPreference": "Garden",
+    "lastPurchaseDate": "2023-01-27",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 4958.05
+  },
+  {
+    "id": 43,
+    "name": "Hazel Adams",
+    "email": "Aurelio.Bernier@hotmail.com",
+    "productPreference": "Tools",
+    "lastPurchaseDate": "2023-09-10",
+    "numPurchasesLast30Days": 2,
+    "lifetimeTotal": 4670.33
+  },
+  {
+    "id": 44,
+    "name": "Luke Watsica Jr.",
+    "email": "Josiah91@hotmail.com",
+    "productPreference": "Industrial",
+    "lastPurchaseDate": "2022-09-23",
+    "numPurchasesLast30Days": 2,
+    "lifetimeTotal": 970.59
+  },
+  {
+    "id": 45,
+    "name": "Dr. Katie Bahringer",
+    "email": "Durward.Koelpin@hotmail.com",
+    "productPreference": "Kids",
+    "lastPurchaseDate": "2023-03-14",
+    "numPurchasesLast30Days": 1,
+    "lifetimeTotal": 303.18
+  },
+  {
+    "id": 46,
+    "name": "Kenneth O'Conner",
+    "email": "Ora.Larson28@hotmail.com",
+    "productPreference": "Clothing",
+    "lastPurchaseDate": "2023-04-16",
+    "numPurchasesLast30Days": 10,
+    "lifetimeTotal": 4475.83
+  },
+  {
+    "id": 47,
+    "name": "Harriet Rogahn",
+    "email": "Kristofer67@yahoo.com",
+    "productPreference": "Toys",
+    "lastPurchaseDate": "2023-10-08",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 602.38
+  },
+  {
+    "id": 48,
+    "name": "Ms. Hilda Brown",
+    "email": "Elliott.Bogan@gmail.com",
+    "productPreference": "Clothing",
+    "lastPurchaseDate": "2023-08-02",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 2238.1
+  },
+  {
+    "id": 49,
+    "name": "Phillip Bauch III",
+    "email": "Johnson82@gmail.com",
+    "productPreference": "Tools",
+    "lastPurchaseDate": "2021-01-25",
+    "numPurchasesLast30Days": 6,
+    "lifetimeTotal": 2693.32
+  },
+  {
+    "id": 50,
+    "name": "Terry Barton",
+    "email": "Crystal76@hotmail.com",
+    "productPreference": "Kids",
+    "lastPurchaseDate": "2022-03-27",
+    "numPurchasesLast30Days": 3,
+    "lifetimeTotal": 3422.34
+  }
+]
